@@ -1,17 +1,20 @@
 {
-  "name": "starter",
+  "name": "starter-page-builder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel dev src/index.html",
-    "build": "parcel build src/index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/starter-page-builder-fender0195.git"
   },
   "keywords": [],
-  "author": "Cynthia Teeters <cynthia.teeters@raritanval.edu> (https://github.com/cynthiateeters)",
+  "author": "“Fender <“fjc.95@icloud.com”> (https://github.com/fender0195)",
   "license": "MIT",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.32.4"
-  }
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/starter-page-builder-fender0195/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/starter-page-builder-fender0195#readme"
 }
